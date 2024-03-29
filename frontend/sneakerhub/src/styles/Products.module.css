@@ -1,0 +1,11 @@
+.product {
+    padding: 90px 20px 10px 20px;
+    position: relative;
+  }
+  
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 233px));
+    grid-gap: 1rem;
+  }
+  
